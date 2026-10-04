@@ -10,13 +10,13 @@ Business was running smoothly until Month 8, where a sudden 70% revenue drop was
 ​SQL/Python: For data cleaning ,transformation ,Visulization And SQL for Deep Dive Analysis.
 <img width="813" height="775" alt="Screenshot 2026-04-29 154531" src="https://github.com/user-attachments/assets/192829af-219e-4e7d-af6c-dca166cfef74" />
 
-​###  Power BI:
+Power BI:
 For Executive & Diagnostic Dashboards.
 
-​###  Advanced DAX:
+Advanced DAX:
 To calculate KPIs like Average Order Value (AOV) and Rating Counts.
 
-​### Storytelling: 
+​Storytelling: 
 To bridge the gap between complex data and business decisions.
 
 ## Key Features of the Dashboard
