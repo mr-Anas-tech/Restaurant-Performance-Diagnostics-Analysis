@@ -4,15 +4,20 @@ End to End Project(Python+ SQL+ Power BI)
 ## The Problem Statement (The "Story"):
 Business was running smoothly until Month 8, where a sudden 70% revenue drop was observed. Stakeholders were concerned about a market crash or operational failure.
 ​## The Solution (Your Value)
-​"I performed a Root Cause Analysis (RCA) and discovered that the issue wasn't the business, but Data Integrity. From Month 8 onwards, the source data only captured 8 days of transactions instead of 30. I built a diagnostic dashboard to visualize this gap and provided actionable insights on high-performing locations like Yelahanka and hero products like the Triple Chicken Feast."
+​I performed a Root Cause Analysis (RCA) and discovered that the issue wasn't the business, but Data Integrity. From Month 8 onwards, the source data only captured 8 days of transactions instead of 30. I built a diagnostic dashboard to visualize this gap and provided actionable insights on high-performing locations like Yelahanka and hero products like the Triple Chicken Feast.
 
 ## Technical Stack Used (Skills):
 ​SQL/Python: For data cleaning ,transformation ,Visulization And SQL for Deep Dive Analysis.
 <img width="813" height="775" alt="Screenshot 2026-04-29 154531" src="https://github.com/user-attachments/assets/192829af-219e-4e7d-af6c-dca166cfef74" />
 
-​###  Power BI: For Executive & Diagnostic Dashboards.
-​###  Advanced DAX: To calculate KPIs like Average Order Value (AOV) and Rating Counts.
-​### Storytelling: To bridge the gap between complex data and business decisions.
+​###  Power BI:
+For Executive & Diagnostic Dashboards.
+
+​###  Advanced DAX:
+To calculate KPIs like Average Order Value (AOV) and Rating Counts.
+
+​### Storytelling: 
+To bridge the gap between complex data and business decisions.
 
 ## Key Features of the Dashboard
 ​Executive Overview: High-level KPIs (Revenue, Orders, Ratings).
